@@ -28,3 +28,9 @@ export const buscarHeroe = (id, callback)=>{
     //callback(heroe);
 
 }
+/*Para actualizar en git
+1) git init 
+2) git add .
+3) git commit -m "mensaje"
+4) git push -u origin main
+*/
