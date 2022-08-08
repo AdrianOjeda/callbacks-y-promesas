@@ -1,4 +1,4 @@
-import {buscarHeroe}from './js/callbacks';
+/*import {buscarHeroe}from './js/callbacks';
 import './styles.css';
 
 const heroeId1 = 'capi';
@@ -19,4 +19,4 @@ buscarHeroe(heroeId1, (err, heroe1)=>{
 });
 
 
-console.log('fin del programa');
+console.log('fin del programa');*/
